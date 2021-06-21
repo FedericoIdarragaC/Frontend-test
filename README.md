@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Ejecución
 
-Para ejecutar esta proyecto use el comando:
+Para ejecutar este proyecto use el comando:
 ```bash
 npm start
 ```
